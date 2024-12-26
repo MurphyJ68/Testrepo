@@ -1,0 +1,105 @@
+03/25/2024 Contaminated Incoming Delivery																						
+Gallons delivered = 		9694	BOL D011365492																			
+																						
+Tank #3		Gallons in																				
+18000 Cap		Tank after																				
+Starting %	Ending %	delivery																				
+13	69	12420																				
+			These gallons are approximate and based																			
+Bobtail loaded 03/26/24			on % gauges & without temp compensation																			
+Truck #3		Gallons in																				
+3000 Cap		Tank after																				
+Starting %	Ending %	loading																				
+30	61	1830																				
+																						
+Gallons contaminated=		14250	ESTIMATED																			
+																						
+																						
+REMOVING CONTAMINATED PROPANE																						
+Gallons loaded on transport 04/03/2024																						
+																						
+Bobtail gallons pumped in to transport through meter =					2030																	
+																						
+Plant pumped in to transport out of 18000 tank							Bulk Plant pumps at approximately 120 gal/min															
+Starting %	Ending %	% Total	Approximate Gallons = 		2520		Site glass appeared to clear up at around 13 minutes.															
+69	55	14	Temp= 32				Total pump time approximately 22 minutes															
+			Approx Total Gallons =		4550																	
+																						
+Transport % gauge (Total capacity = 11600)																						
+Starting %	Ending %	% Total	Appr Galls = 	4524																		
+0	39	39																				
+																						
+Gallons loaded on transport 04/04/2024																						
+																						
+Plant pumped in to transport out of 18000 tank								4/4 Net														
+Starting %	Ending %	% Total	Approximate Gallons = 		9900			" 10,556 "														
+55	0	55	Temp=39																			
+																						
+Transport % gauge (Total capacity = 11600)																						
+Starting %	Ending %	% Total	Appr Galls = 	9860																		
+0	85	85																				
+																						
+																						
+Total Gallons of contaminated fuel pumped in to transp:					14450																	
+																						
+																						
+																						
+																						
+																						
+How to account for the gallons 																						
+												Meter	4/3 Contam Removed	Centennial	Randy							
+1) Comfurt is not billed for the contaminated load 9694 gallons BOL DO11365492													Transport	Gallons								
+												Centennial	Includes bobtail	"4,183.2"	"4,550.0"							
+2) Comfurt is billed for the 2 clean loads .																						
+	BOL= DO11365701 FOR  10670  Gallons												4/3 Contam Removed									
+	BOL= DO11365728 FOR  10556  Gallons											Bobtail		Gallons								
+																						
+																						
+3) Comfurt is credited for contaminated gallons removed in excess of the original contaminated load													4/4 Contaminated									
+	TOTAL GALLONS REMOVED			14450									Transport	Gallons								
+	GALLONS IN CONTAMINATED LOAD			9694		Not Billed						Centennial	223.5	"9,387.0"	"9,900.0"							
+	DIFFERENCE IN GALLONS			4756																		
+																						
+	Excess contaminated gallons removed			4756									Total Removed	"13,570.2"	"14,450.0"	879.8						
+	Cost at	0.900000	4280.40																			
+	Perc at	0.005000	23.78																			
+	Colo Fee	0.001250	5.95																			
+	Freight	0.133530	635.07									1st Delivery	4/3 New Propane									
+	Fuel Surcharg	0.310000	196.87										Transport	Gallons								
+	Total Credit		"$5,142.06"											"10,670.0"	"10,670.0"	0.0						
+																						
+												2nd Delivery	4/4 New Propane									
+													Transport	Gallons								
+														"10,556.0"	"10,556.0"	0.0						
+																						
+																						
+													Total New	"21,226.0"	"21,226.0"	0.0						
+		.											Total Removed	"13,570.2"	"14,450.0"	879.8						
+													Difference	"7,655.8"	"6,776.0"	-879.8						
+																						
+																						
+																						
+Pull Date	Terminal	Lifting #	Customer	Rack or Prebuy No.	Carrier	Status	CPM Inv. #	CPM Price	BOL	Gallons	Ttl Frt Cost to CPM	Ttl Cost to CPM	Ttl Invoice Amt.	Ttl Margin to CPM	Supp. Audited Yes/No	Customer Invoice Audited Yes/No	CO Terminal or Pipeline	PERC Cost	State PERC Cost	Total Frt Cost Audited Yes/No	Parent Co.	Mtrd. Gal.
+"Wed, 04/03/24"	Greeley		Comfurt Gas	Rack	Pejsa T.	Loaded		0.87	11365701	10670	"$1,810.57 "	"$10,493.29 "	"$11,232.78 "	$739.49 	0	0	Colorado	$53.35 	$13.34 	0	Comfurt Gas	
+"Thu, 04/04/24"	Greeley	10136791	Comfurt Gas	Rack	Pejsa T.	Loaded		0.87	11365728	10556	"$1,791.23 "	"$10,394.37 "	"$11,112.76 "	$718.39 	0	0	Colorado	$52.78 	$13.20 	0	Comfurt Gas	
+												"$20,887.66 "										
+													"-$5,142.06"									
+																						
+													"$17,203.48 "									
+																						
+																						
+										Invoice #1	BOL	Gallons	Ttl Invoice Amt.									
+											11365701	10670	"$11,232.78 "									
+											Credit	4756	"($5,142.06)"									
+											Net Inv		"$6,090.72 "									
+																						
+										Invoice #2	BOL	Gallons	Ttl Invoice Amt.									
+											11365728	10556	"$11,112.76 "									
+																						
+											Invoiced to Comfurt	Total	"$17,203.48 "									
+																						
+											Purchase from CIMA		"8,502.49"									
+																						
+													"($1,216.51)"									
+											Pejsa Freight on		1644.95									
+											contam load.											
